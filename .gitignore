@@ -7,3 +7,7 @@ Thumbs.db
 .buildpath
 *.swp
 *.swo
+templates_c
+files
+config/standard/config.php
+
